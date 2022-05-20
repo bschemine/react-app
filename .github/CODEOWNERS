@@ -1,6 +1,6 @@
 * @bschemine
 *.js @bschemine
-*.yml @bschemine2
+*.yml @bschemine
 /public/ @bschemine
 
 
