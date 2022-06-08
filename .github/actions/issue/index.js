@@ -1,7 +1,7 @@
 const core = require("@actions/core");
 const github = require("@actions/github");
 
-
+/*
 async function run() {
     try {
         const token = core.getInput("token");
@@ -27,3 +27,4 @@ async function run() {
 }
 
 run()
+*/

@@ -4923,7 +4923,7 @@ Object.defineProperty(exports, "markdownSummary", { enumerable: true, get: funct
 const core = __webpack_require__(470);
 const github = __webpack_require__(469);
 
-
+/*
 async function run() {
     try {
         const token = core.getInput("token");
@@ -4949,6 +4949,7 @@ async function run() {
 }
 
 run()
+*/
 
 
 /***/ }),
