@@ -1,0 +1,14 @@
+name: Hello World
+author: Blake Schemine
+description: Greet The User
+inputs:
+  who-to-greet:
+    description: "Who to greet"
+    required: true
+    default: Blake Schemine
+outputs:
+  time:
+    description: "The Greeting Time"
+runs:
+  using: "node12"
+  main: "dist/index.js"
